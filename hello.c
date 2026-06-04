@@ -6,7 +6,6 @@ int main()
     printf("%d\n", 5+5);
     printf("%d", 10-5);
     printf("Helloo");
-    printf("Haaaaa");
-
+    printf("Haiyaaaa");
     return 0;
 }
