@@ -6,6 +6,11 @@ int main()
     printf("%d\n", 5+5);
     printf("%d", 10-5);
     printf("Helloo");
+<<<<<<< HEAD
     printf("Haiyaaa");
+=======
+    printf("Haiyaaaa");
+    printf("****$$$$****");
+>>>>>>> style
     return 0;
 }
